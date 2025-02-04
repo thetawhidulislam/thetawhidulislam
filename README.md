@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I’m Tawhidul Islam, a Frontend Developer with 3+ years of experience in HTML & CSS. I’m currently learning JavaScript, ReactJS, and MongoDB to build dynamic web applications. Passionate about clean code, responsive design, and performance optimization, I strive to create user-friendly and SEO-friendly web experiences. 🚀</p>
+<p align="left">I’m Tawhidul Islam, a Frontend Developer with 3+ years of experience in HTML & CSS. I’m currently exploring JavaScript, ReactJS, and MongoDB to build dynamic web applications. Passionate about clean code, responsive design, and performance optimization, I strive to create user-friendly and SEO-friendly web experiences. 🚀</p>
 
 ###
 
