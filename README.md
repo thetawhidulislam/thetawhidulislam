@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://tawhidulislam.vercel.app/_next/image?url=%2Fimages%2Fmy_pic_.jpg&w=3840&q=75" width="150" height="150" style="border-radius:50%;object-fit:cover;" />
+  <img height="250" src="https://i.ibb.co.com/jvfGVVvL/image.png" />
 </div>
 
 <h1 align="center">Tawhidul Islam</h1>
