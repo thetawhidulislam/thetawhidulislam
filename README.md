@@ -1,9 +1,10 @@
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/jvfGVVvL/image.png" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Tawhidul%20Islam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=58&descSize=20" />
 </div>
 
-<h1 align="center">Tawhidul Islam</h1>
-<h3 align="center">🚀 Full Stack Developer | Frontend Developer | MERN Stack Developer</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,prisma,react,nodejs,mongodb,tailwind" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer" alt="Typing SVG" />
