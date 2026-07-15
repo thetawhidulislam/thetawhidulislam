@@ -1,6 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Tawhidul%20Islam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20Next.js&descAlignY=58&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=200&section=header&animation=fadeIn" />
 </div>
+
+<div align="center">
+  <img src="https://tawhidulislam.vercel.app/_next/image?url=%2Fimages%2Fmy_pic_.jpg&w=3840&q=75" width="150" height="150" style="border-radius:50%;object-fit:cover;" />
+</div>
+
+<h1 align="center">Tawhidul Islam</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN + Next.js</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,postgres,prisma,react,nodejs,mongodb,tailwind" />
