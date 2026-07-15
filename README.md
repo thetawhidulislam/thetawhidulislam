@@ -1,167 +1,193 @@
 <div align="center">
+  <img height="250" src="https://i.ibb.co.com/jvfGVVvL/image.png" />
+</div>
 
-<img src="https://i.ibb.co.com/jvfGVVvL/image.png" width="100%" alt="Banner"/>
+<h1 align="center">Tawhidul Islam</h1>
+<h3 align="center">🚀 Full Stack Developer | Frontend Developer | MERN Stack Developer</h3>
 
-# 👋 Hi, I'm Tawhidul Islam
-
-### 💻 Frontend Developer | Next.js Developer | React & TypeScript Enthusiast
-
-<p>
-Passionate about building modern, responsive and high-performance web applications using the latest technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=thetawhidulislam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/thetawhidulislam?label=Followers&style=social"/>
+<p align="center">
+  📍 Feni, Bangladesh &nbsp;|&nbsp; ✉️ designwithtawhid@gmail.com &nbsp;|&nbsp; 🌐 <a href="https://tawhidulislam.vercel.app/">tawhidulislam.vercel.app</a>
 </p>
 
-</div>
+###
 
----
+<h2 align="left">👋 About Me</h2>
 
-# 🚀 About Me
-
-I'm **Tawhidul Islam**, a passionate **Frontend Developer** from **Bangladesh** who loves building modern, scalable, and user-friendly web applications.
-
-I enjoy transforming ideas into real-world products with clean code, beautiful UI, and excellent user experience.
-
-Over the past few years, I've worked with modern frontend technologies and recently expanded my skills into full-stack development using **Next.js**, **Node.js**, **Prisma**, and **PostgreSQL**.
-
-I believe in continuous learning, writing maintainable code, and creating products that users genuinely enjoy.
-
----
-
-# 🌱 Current Activities
-
-- 🚀 Building Full Stack applications with **Next.js 16**
-- ⚡ Exploring advanced **React** patterns and Server Components
-- 📚 Learning **System Design** & scalable application architecture
-- 💳 Integrating **Stripe Payment Gateway**
-- 🔐 Working with **Better Auth**, JWT & Role Based Authentication
-- 🎨 Building beautiful interfaces using **Tailwind CSS** & **shadcn/ui**
-- 🌍 Open to freelance projects and collaboration
-
----
-
-# 💻 Tech Stack
+<p align="left">
+My programming journey started with simple HTML and CSS pages, and curiosity about how websites actually work quickly turned into a full-blown passion. Since then, I've grown into a Web Designer & Frontend Developer with 1 year of experience, picking up React, Next.js, and backend tools like Node.js and MongoDB along the way to build complete, real-world applications.<br><br>
+I specialize in creating user-friendly, responsive, and visually stunning websites that help businesses grow — turning a rough idea or design file into a fast, usable product. I especially enjoy projects with a bit of complexity: role-based dashboards, real-time data, and clean, well-structured code that's easy to maintain and scale.<br><br>
+Outside of programming, I enjoy gaming, photography, sports, and exploring new technologies. I'm easygoing to work with, detail-oriented under the hood, and genuinely care about getting the small things right — not just shipping something that works. 🚀
+</p>
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-### Database & ORM
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+| ∞ | 10+ | 100% |
+|:---:|:---:|:---:|
+| Learning Mindset | Projects Completed | Client Satisfaction |
 
 </div>
 
----
+###
 
-# ⚙️ Libraries & Technologies
+<h2 align="left">🔨 Current Activities</h2>
+
+<p align="left">
+- 🏥 Working on <b>PH Health Care</b> — a full-stack doctor appointment & healthcare platform<br>
+- ⚛️ Deepening my expertise in Next.js App Router, TypeScript & Prisma<br>
+- 🔐 Exploring Better Auth and role-based authorization systems<br>
+- 🐹 Learning Go (Golang) and Docker for backend & deployment<br>
+- 🗄️ Practicing scalable API design with PostgreSQL, Redis and Prisma ORM<br>
+- 🤝 Open to freelance projects, collaborations, and full-time opportunities
+</p>
+
+###
+
+<h2 align="left">🧠 Skills</h2>
+
+<h3 align="left">Frontend — 9</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="47" />
+</p>
+
+<h3 align="left">Backend — 6</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" height="47" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="47" />
+  <img src="https://img.shields.io/badge/Better_Auth-1E1E1E?style=for-the-badge" height="47" />
+</p>
+
+<h3 align="left">Database & ORM — 5</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase,redis" />
+</p>
+
+<h3 align="left">State Management & Data Fetching — 2</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="47" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" height="47" />
+</p>
+
+<h3 align="left">Forms & Validation — 3</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="47" />
+  <img src="https://img.shields.io/badge/TanStack_Form-FF4154?style=for-the-badge" height="47" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" height="47" />
+</p>
+
+<h3 align="left">Payments & Storage — 2</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="47" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="47" />
+</p>
+
+<h3 align="left">Tools & Deployment — 7</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman,figma" />
+</p>
+
+###
+
+<h2 align="left">💼 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏥 PH Health Care**
+
+Full-stack healthcare platform for booking doctor consultations, managing appointments, and handling patient–doctor–admin workflows.
+
+`Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Better-Auth`
+
+[🔗 Live](https://ph-health-client.vercel.app/) · [Client](https://github.com/thetawhidulislam/ph-health-client) · [Server](https://github.com/thetawhidulislam/ph-health-server)
+
+</td>
+<td width="33%" valign="top">
+
+**🩸 Roktho Bondhon**
+
+Blood donation platform connecting donors, volunteers, and admins — request blood, donate, or contribute funds.
+
+`React` `Firebase` `Node.js` `Express.js` `MongoDB` `Stripe` `Tailwind CSS`
+
+[🔗 Live](https://rokto-bondhon-5512e.web.app/) · [Client](https://github.com/thetawhidulislam/rokto-bondhon) · [Server](https://github.com/thetawhidulislam/rokto-bondhon-serve)
+
+</td>
+<td width="33%" valign="top">
+
+**🍽️ Bistro Boss**
+
+Restaurant management website — browse the menu, place food orders, pay online, with an admin dashboard to manage everything.
+
+`React` `Firebase` `Node.js` `Express.js` `MongoDB` `Stripe` `Tailwind CSS`
+
+[🔗 Live](https://bistro-boss-3f8f9.web.app) · [Client](https://github.com/thetawhidulislam/bistro-resturante-client) · [Server](https://github.com/thetawhidulislam/bistro-resturante-server)
+
+</td>
+</tr>
+</table>
+
+<p align="center">📁 <a href="https://tawhidulislam.vercel.app/#portfolio">See full portfolio →</a></p>
+
+###
+
+<h2 align="left">🎓 Education & Certifications</h2>
+
+<p align="left">
+🎓 <b>Diploma in Telecommunication & Technology</b> — Feni Computer Institute<br>
+📜 <b>Responsive Website Design</b> — Twoinsoft Technology<br>
+📜 <b>Complete Web Development Course</b> — Programming Hero
+</p>
+
+###
+
+<h2 align="left">🗺️ My Journey</h2>
+
+<p align="left">
+<b>2021</b> — Frontend foundations: started HTML, CSS & JavaScript<br>
+<b>2023</b> — Started PHP & Laravel development<br>
+<b>2024</b> — Full stack with MERN: Node.js, Express.js, MongoDB<br>
+<b>2026 – Present</b> — Modern full stack engineering: Next.js, TypeScript, Go, Docker, Redis & production-ready applications
+</p>
+
+###
+
+<h2 align="left">🌐 Connect with Me</h2>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack_Form-FF4154?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge"/>
-
+  <a href="https://www.linkedin.com/in/thetawhidulislam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/tawhidulislam88/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="https://twitter.com/Tawhidu44467989" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <a href="mailto:designwithtawhid@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://tawhidulislam.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="52" height="40" alt="portfolio website" />
+  </a>
 </div>
 
----
+###
 
-# 🌐 Connect With Me
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-
-<a href="https://portfolio-url">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thetawhidulislam">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thetawhidulislam">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/tawhidulislam88">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="mailto:designwithtawhid@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=thetawhidulislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thetawhidulislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=thetawhidulislam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thetawhidulislam&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetawhidulislam&layout=compact&theme=tokyonight"/>
-
-<img width="700" src="https://streak-stats.demolab.com?user=thetawhidulislam&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thetawhidulislam&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thetawhidulislam&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</div>
+<br clear="both">
